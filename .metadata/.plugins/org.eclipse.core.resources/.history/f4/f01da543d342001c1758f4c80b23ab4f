@@ -1,0 +1,9 @@
+package Junit.mock.model;
+
+import java.io.Serializable;
+
+public class StudentModel implements Serializable{
+	
+	
+
+}

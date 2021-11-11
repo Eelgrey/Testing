@@ -1,0 +1,5 @@
+package Junit.mock.model;
+
+public class StudentModel {
+
+}

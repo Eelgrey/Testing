@@ -1,0 +1,5 @@
+package Junit.mock.mockito.controller;
+
+public class StudentController {
+
+}

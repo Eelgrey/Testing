@@ -1,0 +1,5 @@
+package Junit.mock.mockito.dao;
+
+public interface StudentRepository {
+
+}

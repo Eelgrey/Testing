@@ -1,0 +1,5 @@
+ackage Junit.mock.mockito.dao;
+
+public class StudentRepository {
+
+}

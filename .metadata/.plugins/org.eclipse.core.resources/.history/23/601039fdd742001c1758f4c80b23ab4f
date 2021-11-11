@@ -1,0 +1,9 @@
+package Junit.mock.mockito.dao;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+import Junit.mock.model.StudentModel;
+
+public interface StudentRepository extends MongoRepository<StudentModel, Integer> {
+
+}
